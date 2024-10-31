@@ -1,0 +1,13 @@
+body { 
+    text-align: center; /* Center aligns text */
+    background-color: beige; /* Sets background color */
+    font-family: Arial, sans-serif; /* Sets font style */
+    margin: 10%; /* Adds margin around the body */
+    
+}
+
+nav ul {
+    list-style-type: none; /* Removes bullets from the unordered list */
+    padding: 0; /* Removes default padding */
+    margin: 0; /* Removes default margin */
+}
